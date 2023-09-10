@@ -1,0 +1,17 @@
+C:\Users\user\source\repos\Exchange Rate_app\Exchange Rate_app\bin\Debug\Exchange Rate_app.exe.config
+C:\Users\user\source\repos\Exchange Rate_app\Exchange Rate_app\bin\Debug\Exchange Rate_app.exe
+C:\Users\user\source\repos\Exchange Rate_app\Exchange Rate_app\bin\Debug\Exchange Rate_app.pdb
+C:\Users\user\source\repos\Exchange Rate_app\Exchange Rate_app\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\source\repos\Exchange Rate_app\Exchange Rate_app\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\source\repos\Exchange Rate_app\Exchange Rate_app\obj\Debug\Exchange Rate_app.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Exchange Rate_app\Exchange Rate_app\obj\Debug\MainWindow.baml
+C:\Users\user\source\repos\Exchange Rate_app\Exchange Rate_app\obj\Debug\MainWindow.g.cs
+C:\Users\user\source\repos\Exchange Rate_app\Exchange Rate_app\obj\Debug\App.g.cs
+C:\Users\user\source\repos\Exchange Rate_app\Exchange Rate_app\obj\Debug\Exchange Rate_app_MarkupCompile.cache
+C:\Users\user\source\repos\Exchange Rate_app\Exchange Rate_app\obj\Debug\Exchange Rate_app.g.resources
+C:\Users\user\source\repos\Exchange Rate_app\Exchange Rate_app\obj\Debug\Exchange_Rate_app.Properties.Resources.resources
+C:\Users\user\source\repos\Exchange Rate_app\Exchange Rate_app\obj\Debug\Exchange Rate_app.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Exchange Rate_app\Exchange Rate_app\obj\Debug\Exchange Rate_app.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Exchange Rate_app\Exchange Rate_app\obj\Debug\Exchange Rate_app.csproj.CopyComplete
+C:\Users\user\source\repos\Exchange Rate_app\Exchange Rate_app\obj\Debug\Exchange Rate_app.exe
+C:\Users\user\source\repos\Exchange Rate_app\Exchange Rate_app\obj\Debug\Exchange Rate_app.pdb

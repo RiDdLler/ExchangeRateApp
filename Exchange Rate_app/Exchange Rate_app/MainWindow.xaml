@@ -1,0 +1,18 @@
+﻿<Window x:Class="CurrencyExchangeApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Курсы валют" Height="550" Width="400">
+    <Grid>
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+            <TextBlock Text="Курсы валют:" FontSize="18" FontWeight="Bold"/>
+            <TextBlock x:Name="usdTextBlock" FontSize="16" Margin="0,10"/>
+            <TextBlock x:Name="eurTextBlock" FontSize="16" Margin="0,10"/>
+            <TextBlock x:Name="rubTextBlock" FontSize="16" Margin="0,10"/>
+            <TextBlock x:Name="kgsTextBlock" FontSize="16" Margin="0,10"/>
+            <TextBlock x:Name="gbpTextBlock" FontSize="16" Margin="0,10"/>
+            <TextBlock x:Name="cnyTextBlock" FontSize="16" Margin="0,10"/>
+            <TextBlock x:Name="goldTextBlock" FontSize="16" Margin="0,10"/>
+            <Button x:Name="UpdateCurrencyRatesButton" Content="Обновить курсы валют" Width="200" Height="40" FontSize="16" Click="UpdateCurrencyRatesButton_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>
